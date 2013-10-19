@@ -1,0 +1,22 @@
+{
+  "name": "swizzle-term",
+  "version": "0.0.0",
+  "description": "HTML based streaming terminal experiment",
+  "main": "index.htm",
+  "dependencies": {
+    "hudkit": "0.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "terminal",
+    "term",
+    "console",
+    "shell"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "MIT"
+}
